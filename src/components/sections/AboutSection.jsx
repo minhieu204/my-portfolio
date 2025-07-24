@@ -34,7 +34,7 @@ export default function AboutSection({hireMe}){
                                 </div>
                                 <div className="flex flex-wrap relative">
                                     <div className="!mt-[30px]">
-                                        <a href="/CV.pdf" download className="text-[16px] text-white font-[500] !py-[12px] !px-[35px] bg-skin rounded-[40px] inline-block whitespace-nowrap transition-all duration-300 ease-in-out hover:scale-[1.05] !mr-[15px] !mt-[10px]">Download CV</a>
+                                        <a href="CV.pdf" download className="text-[16px] text-white font-[500] !py-[12px] !px-[35px] bg-skin rounded-[40px] inline-block whitespace-nowrap transition-all duration-300 ease-in-out hover:scale-[1.05] !mr-[15px] !mt-[10px]">Download CV</a>
                                         <a href="#" onClick={hireMe} className="text-[16px] text-white font-[500] !py-[12px] !px-[35px] bg-skin rounded-[40px] inline-block whitespace-nowrap transition-all duration-300 ease-in-out hover:scale-[1.05] !mr-[15px] !mt-[10px]">Hire me</a>
                                     </div>
                                 </div>
