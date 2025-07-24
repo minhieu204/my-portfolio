@@ -18,7 +18,7 @@ export default function ContactSection(){
                     <ContactItem name="Call Us On" data="0338649413" iconClass="fa-phone"/>
                     <ContactItem name="Address" data="Hanoi, Vietnam" iconClass="fa-map-marker-alt"/>
                     <ContactItem name="Email" data="gouenji13062004@gmail.com" iconClass="fa-envelope"/>
-                    <ContactItem name="Website" data="https://minhieu204.github.io/my-portfolio/" iconClass="fa-globe-europe"/>
+                    <ContactItem name="Website" data="https://github.com/minhieu204" iconClass="fa-globe-europe"/>
                 </div>
                 <h3 className="!px-[30px] text-skin text-center text-[25px] !mb-[20px]">SEND ME AN EMAIL</h3>
                 <h4 className="!px-[30px] text-textblack900 text-center text-[15px] !mb-[60px]">I'M VERY RESPOSIVE TO MESSAGES</h4>

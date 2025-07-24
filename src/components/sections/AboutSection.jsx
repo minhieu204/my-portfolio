@@ -29,7 +29,7 @@ export default function AboutSection({hireMe}){
                                     <InfoItem title="Address:" data="Hanoi, Vietnam"/>
                                     <InfoItem title="Email:" data="gouenji13062004@gmail.com"/>
                                     <InfoItem title="Phone:" data="0338649413"/>
-                                    <InfoItem title="Website:" data="https://minhieu204.github.io/my-portfolio/" isLink/>
+                                    <InfoItem title="language:" data="VietNamese, English" isLink/>
                                     <InfoItem title="Git:" data="https://github.com/minhieu204" isLink/>
                                 </div>
                                 <div className="flex flex-wrap relative">
