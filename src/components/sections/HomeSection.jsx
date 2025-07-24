@@ -1,3 +1,5 @@
+import me from '../images/me.jpg';
+
 export default function HomeSection({handleClick}){
     return (
         <section className="bg-bgblack900 min-h-screen flex !px-[30px] opacity-[1] text-textblack900">
@@ -10,7 +12,7 @@ export default function HomeSection({handleClick}){
                   <a href="" onClick={handleClick} className="text-[16px] text-white font-[500] !py-[12px] !px-[35px] bg-skin rounded-[40px] inline-block whitespace-nowrap transition-all duration-300 ease-in-out hover:scale-[1.05]">More About Me</a>
                 </div>
                 <div className="flex-[0_0_40%] max-w-[40%] flex justify-center relative !px-[15px] img-after">
-                  <img src="../images/me.jpg" alt="" className="h-[400px] !m-auto rounded-[5px]"/>
+                  <img src={me} alt="" className="h-[400px] !m-auto rounded-[5px]"/>
                 </div>
               </div>
             </div>
