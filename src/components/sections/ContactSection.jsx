@@ -11,14 +11,14 @@ export default function ContactSection(){
                         <h2 className="text-[40px] text-textblack900 font-[700] relative h2-before">Contact Me</h2>
                     </div>
                 </div>
-                <h3 className="!px-[30px] text-skin text-center text-[25px] !mb-[20px]">Have you any question?</h3>
+                <h3 className="!px-[30px] text-skin text-center text-[25px] !mb-[20px]">Have You Any Question?</h3>
                 <h4 className="!px-[30px] text-textblack900 text-center text-[15px] !mb-[60px]">I'M AT YOUR SERVICES</h4>
                 <div className="flex flex-wrap relative !px-[15px]">
                     {/* item */}
                     <ContactItem name="Call Us On" data="0338649413" iconClass="fa-phone"/>
                     <ContactItem name="Address" data="Hanoi, Vietnam" iconClass="fa-map-marker-alt"/>
                     <ContactItem name="Email" data="gouenji13062004@gmail.com" iconClass="fa-envelope"/>
-                    <ContactItem name="Website" data="domain.com" iconClass="fa-globe-europe"/>
+                    <ContactItem name="Website" data="https://minhieu204.github.io/my-portfolio/" iconClass="fa-globe-europe"/>
                 </div>
                 <h3 className="!px-[30px] text-skin text-center text-[25px] !mb-[20px]">SEND ME AN EMAIL</h3>
                 <h4 className="!px-[30px] text-textblack900 text-center text-[15px] !mb-[60px]">I'M VERY RESPOSIVE TO MESSAGES</h4>

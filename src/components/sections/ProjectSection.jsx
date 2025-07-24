@@ -16,7 +16,7 @@ export default function ProjectSection(){
                 </div>
                 <div className="flex flex-wrap relative !px-[30px]">
                     <div className="flex-[0_0_100%] max-w-[100%] !mb-[40px]">
-                        <h2 className="text-textblack900 font-[500]">My last projects:</h2>
+                        <h2 className="text-textblack900 font-[500]">My Last Projects:</h2>
                     </div>
                 </div>
                 <div className="flex flex-wrap relative !px-[15px]">
