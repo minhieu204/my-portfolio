@@ -26,7 +26,7 @@ export default function AboutSection({hireMe}){
                                     <InfoItem title="Birth day:" data="13 Jun 2004"/>
                                     <InfoItem title="Age:" data="21"/>
                                     <InfoItem title="Sex:" data="Male"/>
-                                    <InfoItem title="Address:" data="Ha Noi City, Vietnam"/>
+                                    <InfoItem title="Address:" data="Hanoi, Vietnam"/>
                                     <InfoItem title="Email:" data="gouenji13062004@gmail.com"/>
                                     <InfoItem title="Phone:" data="0338649413"/>
                                     <InfoItem title="Website:" data="domain.com" isLink/>

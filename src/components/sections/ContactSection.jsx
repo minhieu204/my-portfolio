@@ -16,7 +16,7 @@ export default function ContactSection(){
                 <div className="flex flex-wrap relative !px-[15px]">
                     {/* item */}
                     <ContactItem name="Call Us On" data="0338649413" iconClass="fa-phone"/>
-                    <ContactItem name="Address" data="Ha Noi City, Vietnam" iconClass="fa-map-marker-alt"/>
+                    <ContactItem name="Address" data="Hanoi, Vietnam" iconClass="fa-map-marker-alt"/>
                     <ContactItem name="Email" data="gouenji13062004@gmail.com" iconClass="fa-envelope"/>
                     <ContactItem name="Website" data="domain.com" iconClass="fa-globe-europe"/>
                 </div>
