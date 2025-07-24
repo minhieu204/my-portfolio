@@ -1,4 +1,4 @@
-import me from '../../images/me.jpg';
+import me from '../../../images/me.jpg';
 
 export default function HomeSection({handleClick}){
     return (
