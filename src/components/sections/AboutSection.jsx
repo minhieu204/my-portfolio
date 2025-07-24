@@ -54,7 +54,7 @@ export default function AboutSection({hireMe}){
                             <AboutItem
                                 title="Education"
                                 timelines={[
-                                { time: "2022", name: "University Of Transport Technology", description: "Fourth-year" },
+                                { time: "2022 - Present", name: "University Of Transport Technology", description: "Fourth-year" },
                                 ]}
                             />
                             <AboutItem title="Experience" />
