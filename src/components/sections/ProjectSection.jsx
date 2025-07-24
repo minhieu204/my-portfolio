@@ -21,7 +21,7 @@ export default function ProjectSection(){
                 </div>
                 <div className="flex flex-wrap relative !px-[15px]">
                     {/* item */}
-                    <ProjectItem img={p1} link="https://minhieu204.github.io/timingGame/"/>
+                    <ProjectItem img={p1} link="https://minhieu204.github.io/my-portfolio/"/>
                     <ProjectItem img={p2} link="https://minhieu204.github.io/timingGame/"/>
                     <ProjectItem img={p3} link="https://github.com/minhieu204/projectKTPM"/>
                     <ProjectItem img={p4} link="https://github.com/oulyn1/webroutine"/>
