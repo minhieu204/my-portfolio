@@ -1,4 +1,9 @@
 import ProjectItem from "../ProjectItem";
+import p1 from '../../assets/images/projects/p1.png'
+import p2 from '../../assets/images/projects/p2.png'
+import p3 from '../../assets/images/projects/p3.png'
+import p4 from '../../assets/images/projects/p4.png'
+import p5 from '../../assets/images/projects/p5.png'
 
 export default function ProjectSection(){
     return(
@@ -16,11 +21,11 @@ export default function ProjectSection(){
                 </div>
                 <div className="flex flex-wrap relative !px-[15px]">
                     {/* item */}
-                    <ProjectItem number={1} link="https://minhieu204.github.io/timingGame/"/>
-                    <ProjectItem number={2} link="https://minhieu204.github.io/timingGame/"/>
-                    <ProjectItem number={3} link="https://github.com/minhieu204/projectKTPM"/>
-                    <ProjectItem number={4} link="https://github.com/oulyn1/webroutine"/>
-                    <ProjectItem number={5} link="https://github.com/minhieu204/ProjectCShape"/>
+                    <ProjectItem img={p1} link="https://minhieu204.github.io/timingGame/"/>
+                    <ProjectItem img={p2} link="https://minhieu204.github.io/timingGame/"/>
+                    <ProjectItem img={p3} link="https://github.com/minhieu204/projectKTPM"/>
+                    <ProjectItem img={p4} link="https://github.com/oulyn1/webroutine"/>
+                    <ProjectItem img={p5} link="https://github.com/minhieu204/ProjectCShape"/>
                 </div>
             </div> 
         </section>
